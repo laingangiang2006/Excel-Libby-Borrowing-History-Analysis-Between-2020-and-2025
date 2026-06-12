@@ -1,6 +1,6 @@
 # INFO 101 - Data Analysis Assignment
 
-This is my work for Assignment 2 in INFO 101 unit.
+This is my work for Assignment 2 in INFO 101 unit. The dataset contains augmented data from a readers’ Libby borrowing history between 2020 and 2025. All listed texts are audiobooks borrowed from Wellington City Library and the Lower North Island library. The standard loan term is 21 days (3 weeks), after which time the audiobook gets automatically returned regardless of whether the borrower has finished reading it.
 
 ## My tasks: 
 1. I explored the data set on Excel.
