@@ -14,8 +14,8 @@ As required by the lecturers and tutors, after processing data and making the pi
 
 ## My work
 
-[Canva infographic](https://canva.link/oqysyspr6q4xvz6)
+1. [Canva infographic](https://canva.link/oqysyspr6q4xvz6)
 
-[Canva infographic (PDF)](Infographic.pdf)
+2. [Canva infographic (PDF)](Infographic.pdf)
 
-[Excel](Data.xlsx)
+3. [Excel](Data.xlsx)
