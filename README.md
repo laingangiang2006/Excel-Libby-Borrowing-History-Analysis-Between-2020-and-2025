@@ -1,3 +1,6 @@
+<img width="12800" height="4340" alt="Logo Standard Landscape Reversed RGB" src="https://github.com/user-attachments/assets/48d75d64-a3d4-4560-860e-a0ca487cf260" />
+
+
 # INFO 101 - Data Analysis Assignment
 
 This is my work for Assignment 2 in INFO 101 unit, which weighed 35% of my overall grade. The dataset contains augmented data from a readers’ Libby borrowing history between 2020 and 2025. All listed texts are audiobooks borrowed from Wellington City Library and the Lower North Island library. The standard loan term is 21 days (3 weeks), after which time the audiobook gets automatically returned regardless of whether the borrower has finished reading it.
