@@ -14,11 +14,3 @@ This is my work for Assignment 2 in INFO 101 at Victoria University of Wellingto
 6. I produced an infographic to capture these insights, relevant context, and offer a useful conclusion to your reader. The infographic should include a minimum of three data visualisations.
 
 As required by the lecturers and tutors, after processing data and making the pivot tables on Excel, I had to import the dataset into Canva to make the interactive charts. After importing the dataset, I had to select the sheet, contaning the pivot table, I wanted to use. Then, I had to select the values for and customize the chart.
-
-## My work
-
-1. [Canva infographic](https://canva.link/oqysyspr6q4xvz6)
-
-2. [Canva infographic (PDF)](Infographic.pdf)
-
-3. [Excel](Data.xlsx)
