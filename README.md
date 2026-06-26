@@ -26,6 +26,12 @@ As required by the lecturers and tutors, after processing data and making the pi
 | [Excel Notebook](https://github.com/laingangiang2006/Excel-Libby-Borrowing-History-Analysis-Between-2020-and-2025/blob/main/Excel%20notebook.xlsx) | Excel notebook for data cleaning and analysis, with pivot tables and pivot charts |
 | [Infographic](https://github.com/laingangiang2006/Excel-Libby-Borrowing-History-Analysis-Between-2020-and-2025/blob/main/Infographic.pdf) | Infographic (pdf file) |
 
+---
+
+## Infographic
+
+The storytelling infographic designed in Canva to communicate insights derived from Excel-based analysis, including functions, pivot tables, and pivot charts.
+
 <img width="800" height="2000" alt="DataInformational" src="https://github.com/user-attachments/assets/611e3649-a52f-428e-8753-af67d616e875" />
 
 > Alternatively, you can view the diagram by downloading this pdf [infographic](https://github.com/laingangiang2006/Excel-Libby-Borrowing-History-Analysis-Between-2020-and-2025/blob/main/Infographic.pdf) or viewing in [Canva](https://canva.link/oqysyspr6q4xvz6).
