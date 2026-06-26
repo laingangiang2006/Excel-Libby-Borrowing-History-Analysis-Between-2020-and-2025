@@ -5,7 +5,8 @@
 
 This is my work for Assignment 2 in INFO 101 at Victoria University of Wellington, which weighed 35% of my overall grade. The dataset contains augmented data from a readers’ Libby borrowing history between 2020 and 2025. All listed texts are audiobooks borrowed from Wellington City Library and the Lower North Island library. The standard loan term is 21 days (3 weeks), after which time the audiobook gets automatically returned regardless of whether the borrower has finished reading it.
 
-## My tasks: 
+## My tasks:
+
 1. I explored the data set on Excel.
 2. I organised the data set in a way that makes sense to me (e.g., splitting calculations for specific insights across to a new sheet separating years or months or genres, collapsing/hiding columns with less relevant metadata, etc).
 3. I began exploring descriptive insights
@@ -14,3 +15,17 @@ This is my work for Assignment 2 in INFO 101 at Victoria University of Wellingto
 6. I produced an infographic to capture these insights, relevant context, and offer a useful conclusion to your reader. The infographic should include a minimum of three data visualisations.
 
 As required by the lecturers and tutors, after processing data and making the pivot tables on Excel, I had to import the dataset into Canva to make the interactive charts. After importing the dataset, I had to select the sheet, contaning the pivot table, I wanted to use. Then, I had to select the values for and customize the chart.
+
+---
+
+## Repository Structure
+
+| File | Description |
+|------|--------------|
+| [README.md](https://github.com/laingangiang2006/Excel-Libby-Borrowing-History-Analysis-Between-2020-and-2025/blob/main/README.md) | Project documentation |
+| [Excel Notebook](https://github.com/laingangiang2006/Excel-Libby-Borrowing-History-Analysis-Between-2020-and-2025/blob/main/Excel%20notebook.xlsx) | Excel notebook for data cleaning and analysis, with pivot tables and pivot charts |
+| [Infographic](https://github.com/laingangiang2006/Excel-Libby-Borrowing-History-Analysis-Between-2020-and-2025/blob/main/Infographic.pdf) | Infographic (pdf file) |
+
+<img width="800" height="2000" alt="DataInformational" src="https://github.com/user-attachments/assets/611e3649-a52f-428e-8753-af67d616e875" />
+
+> Alternatively, you can view the diagram by downloading this pdf [infographic](https://github.com/laingangiang2006/Excel-Libby-Borrowing-History-Analysis-Between-2020-and-2025/blob/main/Infographic.pdf) or viewing in [Canva](https://canva.link/oqysyspr6q4xvz6).
