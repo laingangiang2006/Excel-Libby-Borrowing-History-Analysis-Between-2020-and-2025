@@ -34,6 +34,15 @@ As required by the lecturers and tutors, after processing data and making the pi
 
 ---
 
+## Tools & Languages
+
+| Tool/Language | Purpose |
+|------|---------|
+| **Excel** | Data cleaning, data analysis, and visualization |
+| **Canva** | Chart and infographic design |
+
+---
+
 ## Infographic
 
 This is the storytelling infographic, designed in Canva to communicate insights derived from Excel-based analysis, including functions, pivot tables, and pivot charts.
