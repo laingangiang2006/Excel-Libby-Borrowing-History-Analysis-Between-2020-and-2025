@@ -30,7 +30,7 @@ As required by the lecturers and tutors, after processing data and making the pi
 
 ## Infographic
 
-The storytelling infographic designed in Canva to communicate insights derived from Excel-based analysis, including functions, pivot tables, and pivot charts.
+The storytelling infographic is designed in Canva to communicate insights derived from Excel-based analysis, including functions, pivot tables, and pivot charts.
 
 <img width="800" height="2000" alt="DataInformational" src="https://github.com/user-attachments/assets/611e3649-a52f-428e-8753-af67d616e875" />
 
