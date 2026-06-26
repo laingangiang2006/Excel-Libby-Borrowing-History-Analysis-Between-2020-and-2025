@@ -3,7 +3,7 @@
 
 # INFO 101 - Data Analysis Assignment
 
-This is my work for Assignment 2 in INFO 101 at Victoria University of Wellington, which weighed 35% of my overall grade. The dataset contains augmented data from a readers’ Libby borrowing history between 2020 and 2025. All listed texts are audiobooks borrowed from Wellington City Library and the Lower North Island library. The standard loan term is 21 days (3 weeks), after which time the audiobook gets automatically returned regardless of whether the borrower has finished reading it.
+This is my exploratory data analysis (EDA) for Assignment 2 in INFO 101 at Victoria University of Wellington, which weighed 35% of my overall grade. The dataset contains augmented data from a readers’ Libby borrowing history between 2020 and 2025. All listed texts are audiobooks borrowed from Wellington City Library and the Lower North Island library. The standard loan term is 21 days (3 weeks), after which time the audiobook gets automatically returned regardless of whether the borrower has finished reading it.
 
 The core question needed to be answer in this project is: 
 
