@@ -5,6 +5,12 @@
 
 This is my work for Assignment 2 in INFO 101 at Victoria University of Wellington, which weighed 35% of my overall grade. The dataset contains augmented data from a readers’ Libby borrowing history between 2020 and 2025. All listed texts are audiobooks borrowed from Wellington City Library and the Lower North Island library. The standard loan term is 21 days (3 weeks), after which time the audiobook gets automatically returned regardless of whether the borrower has finished reading it.
 
+The core question needed to be answer in this project is: 
+
+> What story does this Libby audiobook borrowing history tell, and how can it be communicated through data visualisation?
+
+---
+
 ## My tasks:
 
 1. I explored the data set on Excel.
